@@ -12,7 +12,7 @@ This project presents a detailed analysis of pizza sales to uncover key insights
 ---
 
 ## 💻 Source Code  
-👉 [View SQL & Data Files](https://github.com/yourusername/pizza-sales-analysis) *(Replace with your actual GitHub repo link)*
+👉 [View SQL & Data Files](https://github.com/HimKasera/Pizza-Sales-Analysis/tree/main) *(Replace with your actual GitHub repo link)*
 
 ---
 
